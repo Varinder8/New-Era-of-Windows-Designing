@@ -8,9 +8,3 @@ E:\Varinder\Practice\ASP\FormDesigns\FormDesigns\obj\x86\Debug\FormDesigns.pdb
 E:\Varinder\Practice\Asp\FormDesigns\FormDesigns\obj\x86\Debug\FormDesigns.csprojResolveAssemblyReference.cache
 E:\Varinder\Practice\Windows\New-Era-of-Windows-Designing\FormDesigns\obj\x86\Debug\FormDesigns.exe
 E:\Varinder\Practice\Windows\New-Era-of-Windows-Designing\FormDesigns\obj\x86\Debug\FormDesigns.pdb
-E:\Varinder\Practice\Windows\New-Era-of-Windows-Designing\FormDesigns\bin\Debug\FormDesigns.exe
-E:\Varinder\Practice\Windows\New-Era-of-Windows-Designing\FormDesigns\bin\Debug\FormDesigns.pdb
-E:\Varinder\Practice\Windows\New-Era-of-Windows-Designing\FormDesigns\obj\x86\Debug\FormDesigns.csprojResolveAssemblyReference.cache
-E:\Varinder\Practice\Windows\New-Era-of-Windows-Designing\FormDesigns\obj\x86\Debug\FormDesigns.Form1.resources
-E:\Varinder\Practice\Windows\New-Era-of-Windows-Designing\FormDesigns\obj\x86\Debug\FormDesigns.Properties.Resources.resources
-E:\Varinder\Practice\Windows\New-Era-of-Windows-Designing\FormDesigns\obj\x86\Debug\FormDesigns.csproj.GenerateResource.Cache

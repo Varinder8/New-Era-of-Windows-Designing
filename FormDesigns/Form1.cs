@@ -110,10 +110,5 @@ namespace FormDesigns
             pictureBox5.Visible = true ;
             this.WindowState = FormWindowState.Normal;
         }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

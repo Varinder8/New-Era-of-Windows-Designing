@@ -6,3 +6,5 @@ E:\Varinder\Practice\ASP\FormDesigns\FormDesigns\obj\x86\Debug\FormDesigns.cspro
 E:\Varinder\Practice\ASP\FormDesigns\FormDesigns\obj\x86\Debug\FormDesigns.exe
 E:\Varinder\Practice\ASP\FormDesigns\FormDesigns\obj\x86\Debug\FormDesigns.pdb
 E:\Varinder\Practice\Asp\FormDesigns\FormDesigns\obj\x86\Debug\FormDesigns.csprojResolveAssemblyReference.cache
+E:\Varinder\Practice\Windows\New-Era-of-Windows-Designing\FormDesigns\obj\x86\Debug\FormDesigns.exe
+E:\Varinder\Practice\Windows\New-Era-of-Windows-Designing\FormDesigns\obj\x86\Debug\FormDesigns.pdb

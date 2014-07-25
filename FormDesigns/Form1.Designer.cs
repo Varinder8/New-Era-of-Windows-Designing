@@ -50,6 +50,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.shapeContainer1 = new Microsoft.VisualBasic.PowerPacks.ShapeContainer();
             this.lineShape1 = new Microsoft.VisualBasic.PowerPacks.LineShape();
+            this.button2 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.panel3.SuspendLayout();
@@ -90,9 +91,9 @@
             this.label1.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(29, 7);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(112, 17);
+            this.label1.Size = new System.Drawing.Size(118, 17);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Registration Form";
+            this.label1.Text = "Registration Forms";
             // 
             // panel3
             // 
@@ -171,6 +172,7 @@
             // panel2
             // 
             this.panel2.AccessibleRole = System.Windows.Forms.AccessibleRole.ScrollBar;
+            this.panel2.Controls.Add(this.button2);
             this.panel2.Controls.Add(this.button1);
             this.panel2.Controls.Add(this.button3);
             this.panel2.Controls.Add(this.textBox3);
@@ -223,7 +225,7 @@
             this.textBox3.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox3.Location = new System.Drawing.Point(227, 134);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(241, 25);
+            this.textBox3.Size = new System.Drawing.Size(270, 25);
             this.textBox3.TabIndex = 10;
             // 
             // label4
@@ -242,7 +244,7 @@
             this.textBox4.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox4.Location = new System.Drawing.Point(227, 102);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(241, 25);
+            this.textBox4.Size = new System.Drawing.Size(270, 25);
             this.textBox4.TabIndex = 8;
             // 
             // label5
@@ -261,7 +263,7 @@
             this.textBox2.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox2.Location = new System.Drawing.Point(227, 72);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(241, 25);
+            this.textBox2.Size = new System.Drawing.Size(270, 25);
             this.textBox2.TabIndex = 6;
             // 
             // label3
@@ -280,7 +282,7 @@
             this.textBox1.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(227, 36);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(241, 25);
+            this.textBox1.Size = new System.Drawing.Size(270, 25);
             this.textBox1.TabIndex = 4;
             // 
             // label2
@@ -313,6 +315,20 @@
             this.lineShape1.X2 = 597;
             this.lineShape1.Y1 = 2;
             this.lineShape1.Y2 = 2;
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.Blue;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.ForeColor = System.Drawing.Color.White;
+            this.button2.Location = new System.Drawing.Point(410, 167);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(87, 27);
+            this.button2.TabIndex = 15;
+            this.button2.Text = "Close";
+            this.button2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.button2.UseVisualStyleBackColor = false;
             // 
             // Form1
             // 
@@ -365,6 +381,7 @@
          private System.Windows.Forms.Label label3;
          private System.Windows.Forms.TextBox textBox1;
          private System.Windows.Forms.Label label2;
+         private System.Windows.Forms.Button button2;
     }
 }
 
